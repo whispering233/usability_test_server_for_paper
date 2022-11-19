@@ -8,8 +8,9 @@ from app_predict.cos_predict import CosSimilarityPredict
 
 
 # 实例化 predict 类
+# 需要传入训练好的模型，配好参数
 similarity_predict = SimilarityPredict()
-cos_similarity_predict = CosSimilarityPredict()
+cos_similarity_predict = CosSimilarityPredict(check_point="")
 
 # Create your views here.
 
