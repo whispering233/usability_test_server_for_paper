@@ -1,0 +1,22 @@
+torch==1.10.1
+torchaudio==0.10.1
+torchvision==0.11.2
+tornado @ file:///C:/ci/tornado_1606942379977/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+traitlets @ file:///C:/ci/traitlets_1632759765830/work
+transformers==4.16.0
+transforms==0.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
+widgetsnbextension==3.5.2
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306197271/work
+wincertstore==0.2
+wordcloud==1.8.1
+wrapt==1.12.1
+xlrd==1.2.0
+xxhash==2.0.2
+yarl @ file:///C:/ci/yarl_1606921989557/work
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
